@@ -1,0 +1,5 @@
+Heap Version 1.0
+
+HEAP is a KEY VALUE store written in PHP. It uses filesystem to store all data.
+All keys are filename and values are stored in file contents.
+
